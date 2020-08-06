@@ -1,0 +1,23 @@
+Pseudo Code
+
+<the action (swish_and_flick) is important. It works as a order>
+<the words goes along with the action - double order>
+
+
+// int swish_and_flick ();
+
+Swish and flick, end the flick by point the wand to the object you want to float
+Say "Wingardium Leviosa" while you swish and flick.
+
+the posision of the pointed object is locked with the wand
+controll the movement with the wand
+  -move the wand up
+    -the object will go up with the same speed
+  -move the wand down
+    -the object will go down with the same speed
+  -move the wand left
+    -the object will go left with the same speed
+  -move the wand right
+    -the object will go right with the same speed
+    
+(test version)
